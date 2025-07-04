@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Eduard Sánchez
 
-<!--
-**lorf543/lorf543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate about **data analysis**, **automation**, and **problem-solving**, with a background in **quality assurance**, **operations**, and **customer service**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🇩🇴 Based in Santo Domingo Este, Dominican Republic  
+- 💼 Currently working as a **Quality Analyst (QA)** at ERC  
+- 📊 Skilled in **Power BI**, **Excel Automation**, and **Data Reporting**  
+- 🛠️ Recently completed training in **SQL** and **Advanced Power BI**  
+- 🤖 Love building internal tools that save time and reduce errors  
+- 🌱 Currently learning: **Python for data analysis** and **Git workflows**  
+- 📚 Interested in: **Data Analytics**, **Dashboards**, and **Process Optimization**
+
+---
+
+## 🔧 Tech Stack
+
+- 📊 **Power BI**, Excel (advanced formulas, automation)
+- 💾 **SQL** (PostgreSQL, MySQL)
+- 💻 Python (basics – pandas, numpy in progress)
+- 🛠️ Git & GitHub
+- 📂 Microsoft Office automation (Outlook, Word)
+
+---
+
+## 🌐 Projects (Coming Soon)
+
+I'm currently working on publishing:
+- 📈 Sample dashboards in Power BI
+- 🧹 Excel automation templates
+- 📊 Small data analysis scripts with SQL and Python
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 [eduardsanchez.dev@gmail.com](mailto:eduardsanchez.dev@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario/)
+- 🌐 Portfolio (in progress)
+
+---
+
+> “Automating the boring stuff, so we can focus on what really matters — insights.”
+

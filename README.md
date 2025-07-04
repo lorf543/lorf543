@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eduard Sánchez
 
-🎯 Passionate about **data analysis**, **automation**, and **problem-solving**, with a background in **quality assurance**, **operations**, and **customer service**.
+🎯 Passionate about **web development**, **data analysis**, and **building practical tools** using modern technologies.
 
 ---
 
@@ -8,30 +8,42 @@
 
 - 🇩🇴 Based in Santo Domingo Este, Dominican Republic  
 - 💼 Currently working as a **Quality Analyst (QA)** at ERC  
-- 📊 Skilled in **Power BI**, **Excel Automation**, and **Data Reporting**  
-- 🛠️ Recently completed training in **SQL** and **Advanced Power BI**  
-- 🤖 Love building internal tools that save time and reduce errors  
-- 🌱 Currently learning: **Python for data analysis** and **Git workflows**  
-- 📚 Interested in: **Data Analytics**, **Dashboards**, and **Process Optimization**
+- 🌐 Developing real-world tools and dashboards using **Django** and **HTMX**
+- 📊 Skilled in **Power BI**, **Excel Automation**, and **SQL** for reporting and data analysis  
+- 💻 Always learning and exploring — currently focused on **backend development** and **data**
 
 ---
 
-## 🔧 Tech Stack
+## 🛠 Tech Stack
 
-- 📊 **Power BI**, Excel (advanced formulas, automation)
-- 💾 **SQL** (PostgreSQL, MySQL)
-- 💻 Python (basics – pandas, numpy in progress)
-- 🛠️ Git & GitHub
-- 📂 Microsoft Office automation (Outlook, Word)
+### 🐍 Backend
+- **Python**, Django, Django REST Framework
+- APIs & authentication with Django
+- Basic experience with **C#**
+
+### 🌐 Frontend
+- HTML, CSS, Bootstrap, **Tailwind CSS**
+- Dynamic UIs with **HTMX**
+- Templating with Django
+
+### 📊 Data Tools
+- Power BI (including advanced dashboards)
+- SQL (PostgreSQL & MySQL)
+- Excel (advanced formulas, automation)
+
+### 💻 Dev Tools
+- Git & GitHub
+- VS Code
+- Debugging & optimization
 
 ---
 
-## 🌐 Projects (Coming Soon)
+## 🚀 What I'm Working On
 
-I'm currently working on publishing:
-- 📈 Sample dashboards in Power BI
-- 🧹 Excel automation templates
-- 📊 Small data analysis scripts with SQL and Python
+- 🌱 Portfolio site with Django + Tailwind
+- 📈 Power BI dashboard projects
+- 🛠️ Internal tools for agents & QA process automation
+- ✨ Practicing Django APIs with real-world use cases
 
 ---
 
@@ -43,5 +55,5 @@ I'm currently working on publishing:
 
 ---
 
-> “Automating the boring stuff, so we can focus on what really matters — insights.”
+> “Build with purpose. Automate the boring. Share what you learn.”
 

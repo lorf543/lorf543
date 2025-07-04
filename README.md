@@ -28,7 +28,7 @@
 
 ### 📊 Data Tools
 - Power BI (including advanced dashboards)
-- SQL (PostgreSQL & MySQL)
+- SQL (SQL Server)
 - Excel (advanced formulas, automation)
 
 ### 💻 Dev Tools

@@ -49,7 +49,7 @@
 
 ## 📫 Let's Connect!
 
-- 📧 [eduardsanchez.dev@gmail.com](mailto:lorf543@gmail.com)
+- 📧 [lorf543@gmail.com](mailto:lorf543@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-alberto-sanchez-lebron-73a191289/)
 - 🌐 Portfolio (in progress)
 

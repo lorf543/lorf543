@@ -31,12 +31,13 @@
 - Power BI
 - SQL (SQL Server)
 - Excel (advanced formulas, automation)
-- Docker & Traefik (basic configuration experience)
+
+
 
 ###  Dev Tools
 - Git & GitHub
 - VS Code
-- Debugging & optimization
+- Docker & Traefik-nginx (basic configuration experience)
 
 ---
 

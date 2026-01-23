@@ -28,7 +28,7 @@
 - basic next js 
 
 ### Data Tools
-- Power BI (including advanced dashboards)
+- Power BI
 - SQL (SQL Server)
 - Excel (advanced formulas, automation)
 - Docker & Traefik (basic configuration experience)
